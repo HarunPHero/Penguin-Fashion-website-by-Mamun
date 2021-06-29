@@ -14,7 +14,7 @@
     background-color:rgb(255, 254, 238) ;
 }
 nav li{
-    padding:15px;
+    padding:3.5px;
 }
 .banner{
     width: 340px;
@@ -26,6 +26,7 @@ nav li{
 .banner-t{
     background-color: rgb(255, 254, 238);
     padding-bottom: 5%;
+    margin-top: 5.5%;
 }
 .run{
     padding:5% ;
